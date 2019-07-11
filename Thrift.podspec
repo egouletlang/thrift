@@ -10,6 +10,6 @@ The Apache Thrift scalable cross-language software framework for networked servi
   s.author        = { 'Apache Thrift Developers' => 'dev@thrift.apache.org' }
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.10'
-  s.source        = { :git => 'https://github.com/apache/thrift.git', :tag => 'v0.13.0' }
+  s.source        = { :git => 'https://github.com/egouletlang/thrift.git', :tag => 'v0.13.0' }
   s.source_files  = 'lib/swift/Sources/*.swift'
 end
